@@ -1,7 +1,8 @@
 # Alex Pinkerton
 
-<img src="" alt="personal banner">
+<img src="Wallpaper Black Hole.jpg" alt="personal banner">
 
+<p align = "center">IT Professional | MSSA Student | U.S. Army Veteran</p>
 <p align = "center">Transitioning Army Logistician with a passion for IT.  Developing my skills in Server and Cloud Administration.</p>
 
 ## Tech Stack
